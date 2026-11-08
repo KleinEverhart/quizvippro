@@ -1,0 +1,462 @@
+[
+  {
+    "id": 1,
+    "question": "Theo triết học Mác – Lênin, yếu tố nào đóng vai trò là cơ sở, nền tảng cho sự tồn tại và phát triển của toàn bộ đời sống xã hội loài người?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sản xuất tinh thần."
+      },
+      {
+        "key": "B",
+        "text": "Sản xuất vật chất."
+      },
+      {
+        "key": "C",
+        "text": "Hoạt động chính trị - xã hội."
+      },
+      {
+        "key": "D",
+        "text": "Hoạt động khoa học - thực nghiệm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "question": "Vì sao triết học Mác - Lênin khẳng định sản xuất vật chất là cơ sở của sự tồn tại và phát triển xã hội?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vì sản xuất vật chất tạo ra của cải để nuôi sống con người và là nền tảng cho mọi hoạt động xã hội."
+      },
+      {
+        "key": "B",
+        "text": "Vì sản xuất vật chất chỉ phục vụ riêng cho nhu cầu kinh tế của các doanh nghiệp."
+      },
+      {
+        "key": "C",
+        "text": "Vì con người chỉ cần có đời sống tinh thần phong phú là xã hội sẽ tự phát triển."
+      },
+      {
+        "key": "D",
+        "text": "Vì nhà nước quyết định hoàn toàn mọi sản phẩm làm ra trong đời sống hằng ngày."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 3,
+    "question": "Yếu tố nào đóng vai trò quyết định trong mối quan hệ biện chứng giữa lực lượng sản xuất và quan hệ sản xuất?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ sản xuất quyết định lực lượng sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Lực lượng sản xuất quyết định quan hệ sản xuất."
+      },
+      {
+        "key": "C",
+        "text": "Quan hệ sản xuất luôn luôn đi trước lực lượng sản xuất."
+      },
+      {
+        "key": "D",
+        "text": "Hai yếu tố này hoàn toàn độc lập với nhau."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "question": "Lực lượng sản xuất và quan hệ sản xuất được xây dựng từ nền tảng lý luận nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Lý luận hình thái kinh tế - xã hội"
+      },
+      {
+        "key": "B",
+        "text": "Lý luận giá trị thặng dư"
+      },
+      {
+        "key": "C",
+        "text": "Lý luận đấu tranh giai cấp"
+      },
+      {
+        "key": "D",
+        "text": "Lý luận Nhà nước và cách mạng vô sản"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "question": "Nhân tố giữ vai trò quyết định trong lực lượng sản xuất là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Đối tượng lao động"
+      },
+      {
+        "key": "B",
+        "text": "Công cụ lao động"
+      },
+      {
+        "key": "C",
+        "text": "Người lao động"
+      },
+      {
+        "key": "D",
+        "text": "Phương tiện giao thông"
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 6,
+    "question": "Trình độ phát triển của công cụ lao động là nhân tố quyết định tới yếu tố nào sau đây?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hiệu quả sản xuất"
+      },
+      {
+        "key": "B",
+        "text": "Năng suất lao động"
+      },
+      {
+        "key": "C",
+        "text": "Cường độ lao động"
+      },
+      {
+        "key": "D",
+        "text": "Chất lượng sản phẩm"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 7,
+    "question": "Trong kết cấu của quan hệ sản xuất, quan hệ nào đóng vai trò quyết định trực tiếp đến địa vị kinh tế - xã hội của các tập đoàn người?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ tổ chức và quản lý sản xuất"
+      },
+      {
+        "key": "B",
+        "text": "Quan hệ sở hữu về tư liệu sản xuất"
+      },
+      {
+        "key": "C",
+        "text": "Quan hệ phân phối sản phẩm lao động"
+      },
+      {
+        "key": "D",
+        "text": "Quan hệ trao đổi và lưu thông hàng hóa"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 8,
+    "question": "Theo Triết học Mác - Lênin, sự biến đổi của quan hệ sản xuất trước hết là do sự biến đổi của yếu tố nào quyết định?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Ý thức xã hội"
+      },
+      {
+        "key": "B",
+        "text": "Lực lượng sản xuất"
+      },
+      {
+        "key": "C",
+        "text": "Kiến trúc thượng tầng"
+      },
+      {
+        "key": "D",
+        "text": "Cơ sở hạ tầng"
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "question": "Theo triết học Mác - Lênin, \"Cơ sở hạ tầng\" là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Là toàn bộ những quan hệ sản xuất của một xã hội trong sự vận động hiện thực của chúng hợp thành cơ cấu kinh tế của xã hội đó."
+      },
+      {
+        "key": "B",
+        "text": "Là toàn bộ lực lượng sản xuất và kiến trúc thượng tầng của xã hội trong một giai đoạn lịch sử nhất định."
+      },
+      {
+        "key": "C",
+        "text": "Là toàn bộ cơ sở vật chất - kỹ thuật, nhà xưởng, đường xá và các công trình kiến trúc của xã hội."
+      },
+      {
+        "key": "D",
+        "text": "Là toàn bộ các quan hệ chính trị, pháp luật, đạo đức và tôn giáo của một hình thái kinh tế - xã hội."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 10,
+    "question": "Theo triết học Mác - Lênin, yếu tố nào dưới đây thuộc về \"Kiến trúc thượng tầng\" của một xã hội?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Tòa tháp Bitexco, Landmark 81 và các chung cư cao tầng."
+      },
+      {
+        "key": "B",
+        "text": "Hệ thống đường cao tốc Bắc - Nam và các cầu vượt đô thị."
+      },
+      {
+        "key": "C",
+        "text": "Hệ thống luật pháp, nhà nước, các quan điểm chính trị và giáo lý tôn giáo."
+      },
+      {
+        "key": "D",
+        "text": "Toàn bộ máy móc, robot AI và công nghệ hiện đại trong các nhà máy."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 11,
+    "question": "Học thuyết hình thái kinh tế – xã hội nghiên cứu điều gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Các quy luật vận động, phát triển của xã hội."
+      },
+      {
+        "key": "B",
+        "text": "Các quy luật vận động của giới tự nhiên."
+      },
+      {
+        "key": "C",
+        "text": "Các quy luật của tư duy con người."
+      },
+      {
+        "key": "D",
+        "text": "Các hiện tượng tâm lý cá nhân"
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 12,
+    "question": "Hình thái kinh tế – xã hội bao gồm những yếu tố cơ bản nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Kinh tế, chính trị và văn hóa."
+      },
+      {
+        "key": "B",
+        "text": "Lực lượng sản xuất, quan hệ sản xuất và kiến trúc thượng tầng."
+      },
+      {
+        "key": "C",
+        "text": "Cơ sở hạ tầng, dân số và lãnh thổ."
+      },
+      {
+        "key": "D",
+        "text": "Nhà nước, pháp luật và đạo đức."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 13,
+    "question": "Trong mối quan hệ giữa lực lượng sản xuất và quan hệ sản xuất, yếu tố nào giữ vai trò quyết định?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Quan hệ sản xuất."
+      },
+      {
+        "key": "B",
+        "text": "Kiến trúc thượng tầng."
+      },
+      {
+        "key": "C",
+        "text": "Lực lượng sản xuất."
+      },
+      {
+        "key": "D",
+        "text": "Ý thức xã hội."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 14,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, yếu tố giữ vai trò nền tảng đối với sự tồn tại và phát triển của xã hội là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sản xuất vật chất."
+      },
+      {
+        "key": "B",
+        "text": "Tôn giáo."
+      },
+      {
+        "key": "C",
+        "text": "Ý thức cá nhân."
+      },
+      {
+        "key": "D",
+        "text": "Hoạt động chính trị đơn thuần."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 15,
+    "question": "Khi lực lượng sản xuất phát triển nhưng quan hệ sản xuất không còn phù hợp, quan hệ sản xuất có thể dẫn đến hậu quả nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Luôn thúc đẩy lực lượng sản xuất phát triển."
+      },
+      {
+        "key": "B",
+        "text": "Kìm hãm sự phát triển của lực lượng sản xuất."
+      },
+      {
+        "key": "C",
+        "text": "Làm lực lượng sản xuất không bao giờ thay đổi."
+      },
+      {
+        "key": "D",
+        "text": "Không gây ra bất kỳ ảnh hưởng nào."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 16,
+    "question": "Khi vận dụng học thuyết hình thái kinh tế – xã hội vào thực tiễn Việt Nam, cần chú ý điều gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sao chép nguyên vẹn mô hình phát triển của quốc gia khác."
+      },
+      {
+        "key": "B",
+        "text": "Chỉ dựa vào mong muốn chủ quan."
+      },
+      {
+        "key": "C",
+        "text": "Xuất phát từ điều kiện lịch sử cụ thể của đất nước và tôn trọng các quy luật khách quan."
+      },
+      {
+        "key": "D",
+        "text": "Không cần quan tâm đến trình độ phát triển của lực lượng sản xuất."
+      }
+    ],
+    "answer": "C"
+  },
+  {
+    "id": 17,
+    "question": "Theo quan điểm của chủ nghĩa Mác – Lênin, yếu tố giữ vai trò nền tảng đối với sự tồn tại và phát triển của xã hội là gì?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sản xuất vật chất."
+      },
+      {
+        "key": "B",
+        "text": "Tôn giáo."
+      },
+      {
+        "key": "C",
+        "text": "Ý thức cá nhân."
+      },
+      {
+        "key": "D",
+        "text": "Hoạt động chính trị đơn thuần."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 18,
+    "question": "Quan hệ sản xuất bao gồm những mặt cơ bản nào?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Sở hữu tư liệu sản xuất, tổ chức và quản lý sản xuất, phân phối sản phẩm lao động."
+      },
+      {
+        "key": "B",
+        "text": "Sản xuất, trao đổi và tiêu dùng."
+      },
+      {
+        "key": "C",
+        "text": "Chính trị, pháp luật và đạo đức."
+      },
+      {
+        "key": "D",
+        "text": "Người lao động, công cụ lao động và đối tượng lao động."
+      }
+    ],
+    "answer": "A"
+  },
+  {
+    "id": 19,
+    "question": "Học thuyết hình thái kinh tế – xã hội là học thuyết của ai?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Hêghen."
+      },
+      {
+        "key": "B",
+        "text": "C. Mác và Ph. Ăngghen."
+      },
+      {
+        "key": "C",
+        "text": "Lênin và Hêghen."
+      },
+      {
+        "key": "D",
+        "text": "A. Smith."
+      }
+    ],
+    "answer": "B"
+  },
+  {
+    "id": 20,
+    "question": "Vì sao không thể chỉ dựa vào ý muốn chủ quan để xây dựng và phát triển xã hội?",
+    "options": [
+      {
+        "key": "A",
+        "text": "Vì con người không có khả năng tác động đến xã hội."
+      },
+      {
+        "key": "B",
+        "text": "Vì sự phát triển xã hội chịu sự chi phối của những quy luật khách quan và các điều kiện lịch sử cụ thể."
+      },
+      {
+        "key": "C",
+        "text": "Vì mọi xã hội đều giống nhau."
+      },
+      {
+        "key": "D",
+        "text": "Vì kinh tế không ảnh hưởng đến sự phát triển xã hội."
+      }
+    ],
+    "answer": "B"
+  }
+]
